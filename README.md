@@ -3,9 +3,9 @@
 This application is used to create graphics and statistics. 
 ***
 ## Installation
-### easy
+### Easy
 If you want to install it you can use the .deb file for an easier installation and use apt or dpkg
-### custom installtion
+### Custom installation
 However you can download all files and all folders and modify "defaultconfig.cfg" and "var.cfg" :
 #### "defaultconfig.cfg"
 ```
