@@ -7,6 +7,10 @@ This application is used to create graphics and statistics.
 If you want to install it you can use the .deb file for an easier installation and use apt or dpkg
 ### Custom installation
 However you can download all files and all folders and modify "defaultconfig.cfg" and "var.cfg" :
+Make sure python3 is installed and install matplotlib for python3 with 
+```
+apt install python3-matplotlib
+```
 #### "defaultconfig.cfg"
 ```
 database:<path to db>
