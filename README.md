@@ -4,15 +4,15 @@ This application is used to create graphics and statistics based on your meteoro
 ***
 ## Installation
 ### Easy
-If you want to install it you can use the .deb file for an easier installation and use apt or dpkg :
+If you want to install it you can use the .deb file located in binary folder for an easier installation and use apt or dpkg :
 ```bash
 sudo apt install ./meteo.deb
 ```
 ### Custom
-However you can download all files and all folders and modify "defaultconfig.cfg" and "var.cfg" :
-Make sure python3 is installed and install matplotlib for python3 with 
+However you can download all files from sources and all folders and modify "defaultconfig.cfg" and "var.cfg" :
+Make sure python3 is installed and install matplotlib and for python3 with 
 ```bash
-apt install python3-matplotlib
+apt install python3-matplotlib python3-gi python3-gi-cairo gir1.2-gtk-3.0
 ```
 #### "defaultconfig.cfg"
 ```
