@@ -1,6 +1,6 @@
 ***
 ## Application
-This application is used to create graphics and statistics and is developped by Grégoire Frémion.
+This application is used to create graphics and statistics based on your meteorological data and is developped by Grégoire Frémion.
 ***
 ## Installation
 ### Easy
