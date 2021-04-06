@@ -38,7 +38,9 @@ in :
 ```
 ***
 ## Screenshots :
+![plot](https://github.com/acmo0/meteo/blob/main/screenshot/screen1.png)
 ![plot](https://github.com/acmo0/meteo/blob/main/screenshot/edit.png)
+![plot](https://github.com/acmo0/meteo/blob/main/screenshot/graph.png)
 ***
 ## Todo :
 Create a Windows version.
