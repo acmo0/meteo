@@ -14,6 +14,10 @@ Make sure python3 is installed and install matplotlib and for python3 with
 ```bash
 apt install python3-matplotlib python3-gi python3-gi-cairo gir1.2-gtk-3.0
 ```
+or
+```
+pip3 install -r requirements.txt 
+```
 #### "defaultconfig.cfg"
 ```
 database:<path to db>
