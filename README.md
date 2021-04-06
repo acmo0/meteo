@@ -37,6 +37,9 @@ in :
 <folder with all images>
 ```
 ***
+## Screenshots :
+![plot](https://github.com/acmo0/meteo/blob/main/screenshot/edit.png)
+***
 ## Todo :
 Create a Windows version.
 ***
