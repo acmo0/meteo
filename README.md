@@ -36,9 +36,9 @@ in :
 <folder with all layouts>
 <folder with all images>
 ```
-##Todo :
+## Todo :
 Create a Windows version.
-##Contributing
+## Contributing
 All feedbacks are welcome. For changes please open a issue to discuss about what you would like to change.
-##License
+## License
 [GPLv3.0](https://www.gnu.org/licenses/gpl-3.0.fr.html)
