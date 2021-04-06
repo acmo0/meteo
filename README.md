@@ -1,11 +1,14 @@
 ***
 ## Application
-This application is used to create graphics and statistics. 
+This application is used to create graphics and statistics and is developped by Grégoire Frémion.
 ***
 ## Installation
 ### Easy
-If you want to install it you can use the .deb file for an easier installation and use apt or dpkg
-### Custom installation
+If you want to install it you can use the .deb file for an easier installation and use apt or dpkg :
+```
+sudo apt install ./meteo.deb
+```
+### Custom
 However you can download all files and all folders and modify "defaultconfig.cfg" and "var.cfg" :
 Make sure python3 is installed and install matplotlib for python3 with 
 ```
